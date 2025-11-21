@@ -3,7 +3,7 @@
 This project analyzes 100,000 Ola ride bookings for Bengaluru and presents insights using dashboard-style visualizations. The dataset includes ride details, vehicle types, booking statuses, payment behaviour, customer and driver ratings, and cancellation reasons.
 
 ## 📄 Documentation
-Full PDF available in `/documentation/Ola_Ride_Analytics_Documentation.pdf`
+Full PDF available in `/Ola_Ride_Analytics_Documentation.pdf`
 
 ## 📊 Dashboard Screenshots
 Screenshots included in `/screenshots`:
